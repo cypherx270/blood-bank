@@ -32050,7 +32050,7 @@ return s},
 aTO(a,b,c){var s=null
 return c.a(A.b6l(a,b,s,s,s,s))},
 aZ4(a,b){return(B.OZ[(a^b)&255]^B.e.ey(a,8))>>>0},
-b38(){return"http://localhost:6001/"},
+b38(){return"https://blood-bank-backend-ulz6.onrender.com"},
 ea(){var s=A.b38()
 if(B.c.hU(s,"/"))return s
 return s+"/"},
